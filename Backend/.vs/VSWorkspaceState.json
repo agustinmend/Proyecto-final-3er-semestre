@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Tiendaenlinea.API",
+    "\\Tiendaenlinea.API\\Controllers",
+    "\\Tiendaenlinea.Dominio",
+    "\\Tiendaenlinea.Dominio\\DTOs",
+    "\\Tiendaenlinea.Dominio\\Repositorios",
+    "\\Tiendaenlinea.Dominio\\Servicios",
+    "\\Tiendaenlinea.Infraestructura",
+    "\\Tiendaenlinea.Infraestructura\\Persistencia",
+    "\\Tiendaenlinea.Infraestructura\\Servicios"
+  ],
+  "SelectedNode": "\\Tiendaenlinea.API\\Controllers\\UsuariosController.cs",
+  "PreviewInSolutionExplorer": false
+}

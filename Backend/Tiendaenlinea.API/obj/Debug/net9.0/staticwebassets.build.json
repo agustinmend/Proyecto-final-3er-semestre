@@ -1,0 +1,3009 @@
+{
+  "Version": 1,
+  "Hash": "wYqinQxoy9CdVifj4bJGbwPXqTfXePDTqAAqH1WtzsY=",
+  "Source": "Tiendaenlinea.API",
+  "BasePath": "_content/Tiendaenlinea.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Tiendaenlinea.API\\wwwroot",
+      "Source": "Tiendaenlinea.API",
+      "ContentRoot": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\",
+      "BasePath": "_content/Tiendaenlinea.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\10625fef-05ee-4c77-8aff-4d17f4ef29eb.jpeg",
+      "SourceId": "Tiendaenlinea.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\",
+      "BasePath": "_content/Tiendaenlinea.API",
+      "RelativePath": "imagenes_productos/10625fef-05ee-4c77-8aff-4d17f4ef29eb#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wir5vrflh4",
+      "Integrity": "aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes_productos\\10625fef-05ee-4c77-8aff-4d17f4ef29eb.jpeg"
+    },
+    {
+      "Identity": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\253cf47b-a7d6-48a4-8922-83c7088667a5.jpeg",
+      "SourceId": "Tiendaenlinea.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\",
+      "BasePath": "_content/Tiendaenlinea.API",
+      "RelativePath": "imagenes_productos/253cf47b-a7d6-48a4-8922-83c7088667a5#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pvanh5t7i6",
+      "Integrity": "1Qvsv11movFpoaOYzWx0KQWYjmL+OoMSkeNonHeywtY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes_productos\\253cf47b-a7d6-48a4-8922-83c7088667a5.jpeg"
+    },
+    {
+      "Identity": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\34d4d2ae-2e7e-4c1d-9009-8da50fccafbd.jpeg",
+      "SourceId": "Tiendaenlinea.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\",
+      "BasePath": "_content/Tiendaenlinea.API",
+      "RelativePath": "imagenes_productos/34d4d2ae-2e7e-4c1d-9009-8da50fccafbd#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wir5vrflh4",
+      "Integrity": "aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes_productos\\34d4d2ae-2e7e-4c1d-9009-8da50fccafbd.jpeg"
+    },
+    {
+      "Identity": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\3e0d55e7-3fd5-40f6-9ec9-6452b90b770a.jpeg",
+      "SourceId": "Tiendaenlinea.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\",
+      "BasePath": "_content/Tiendaenlinea.API",
+      "RelativePath": "imagenes_productos/3e0d55e7-3fd5-40f6-9ec9-6452b90b770a#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wir5vrflh4",
+      "Integrity": "aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes_productos\\3e0d55e7-3fd5-40f6-9ec9-6452b90b770a.jpeg"
+    },
+    {
+      "Identity": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\40fa75c5-b87b-49b6-a699-34b614e779e8.jpeg",
+      "SourceId": "Tiendaenlinea.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\",
+      "BasePath": "_content/Tiendaenlinea.API",
+      "RelativePath": "imagenes_productos/40fa75c5-b87b-49b6-a699-34b614e779e8#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wir5vrflh4",
+      "Integrity": "aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes_productos\\40fa75c5-b87b-49b6-a699-34b614e779e8.jpeg"
+    },
+    {
+      "Identity": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\6131c93d-edf7-461d-8a31-c6e1c27ba640.jpeg",
+      "SourceId": "Tiendaenlinea.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\",
+      "BasePath": "_content/Tiendaenlinea.API",
+      "RelativePath": "imagenes_productos/6131c93d-edf7-461d-8a31-c6e1c27ba640#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wir5vrflh4",
+      "Integrity": "aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes_productos\\6131c93d-edf7-461d-8a31-c6e1c27ba640.jpeg"
+    },
+    {
+      "Identity": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\6a35fbfb-9fec-4d16-abe4-32f31edccb28.jpeg",
+      "SourceId": "Tiendaenlinea.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\",
+      "BasePath": "_content/Tiendaenlinea.API",
+      "RelativePath": "imagenes_productos/6a35fbfb-9fec-4d16-abe4-32f31edccb28#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wir5vrflh4",
+      "Integrity": "aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes_productos\\6a35fbfb-9fec-4d16-abe4-32f31edccb28.jpeg"
+    },
+    {
+      "Identity": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\770c5bbd-0b21-42fc-a72e-5a3a6adb163d.jpeg",
+      "SourceId": "Tiendaenlinea.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\",
+      "BasePath": "_content/Tiendaenlinea.API",
+      "RelativePath": "imagenes_productos/770c5bbd-0b21-42fc-a72e-5a3a6adb163d#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wir5vrflh4",
+      "Integrity": "aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes_productos\\770c5bbd-0b21-42fc-a72e-5a3a6adb163d.jpeg"
+    },
+    {
+      "Identity": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\7ac412dd-e1f8-4179-96b8-61b8bbc9e3d3.jpeg",
+      "SourceId": "Tiendaenlinea.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\",
+      "BasePath": "_content/Tiendaenlinea.API",
+      "RelativePath": "imagenes_productos/7ac412dd-e1f8-4179-96b8-61b8bbc9e3d3#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wir5vrflh4",
+      "Integrity": "aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes_productos\\7ac412dd-e1f8-4179-96b8-61b8bbc9e3d3.jpeg"
+    },
+    {
+      "Identity": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\8a040568-59ff-4473-903b-ab2840300aaf.jpeg",
+      "SourceId": "Tiendaenlinea.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\",
+      "BasePath": "_content/Tiendaenlinea.API",
+      "RelativePath": "imagenes_productos/8a040568-59ff-4473-903b-ab2840300aaf#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wir5vrflh4",
+      "Integrity": "aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes_productos\\8a040568-59ff-4473-903b-ab2840300aaf.jpeg"
+    },
+    {
+      "Identity": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\Cien_Años_de Soledad.jpeg",
+      "SourceId": "Tiendaenlinea.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\",
+      "BasePath": "_content/Tiendaenlinea.API",
+      "RelativePath": "imagenes_productos/Cien_Años_de Soledad#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qzt7cdletl",
+      "Integrity": "lkNoQAnVjbJRCsXgwYcaCf8aTO0GqzGSSL6CZUEK2P4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes_productos\\Cien_Años_de Soledad.jpeg"
+    },
+    {
+      "Identity": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\e2b4f9fd-1996-40ab-876b-4942479bcc62.jpeg",
+      "SourceId": "Tiendaenlinea.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\",
+      "BasePath": "_content/Tiendaenlinea.API",
+      "RelativePath": "imagenes_productos/e2b4f9fd-1996-40ab-876b-4942479bcc62#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jf6ijven3t",
+      "Integrity": "D2DfP5PHsqAMQ+Sjqq9x9ANjdO3LP2aHMndRfw48skA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes_productos\\e2b4f9fd-1996-40ab-876b-4942479bcc62.jpeg"
+    },
+    {
+      "Identity": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\El_Principito.jpeg",
+      "SourceId": "Tiendaenlinea.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\",
+      "BasePath": "_content/Tiendaenlinea.API",
+      "RelativePath": "imagenes_productos/El_Principito#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4qh82clafi",
+      "Integrity": "vM0q3eCAb5ZwsG2RQYSbsVygpYLM1ktyim94oXZkqTM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes_productos\\El_Principito.jpeg"
+    },
+    {
+      "Identity": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\f97a2736-8b6e-492e-971f-4595250b3adb.jpeg",
+      "SourceId": "Tiendaenlinea.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\",
+      "BasePath": "_content/Tiendaenlinea.API",
+      "RelativePath": "imagenes_productos/f97a2736-8b6e-492e-971f-4595250b3adb#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wir5vrflh4",
+      "Integrity": "aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes_productos\\f97a2736-8b6e-492e-971f-4595250b3adb.jpeg"
+    },
+    {
+      "Identity": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\gorra_negra.jpeg",
+      "SourceId": "Tiendaenlinea.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\",
+      "BasePath": "_content/Tiendaenlinea.API",
+      "RelativePath": "imagenes_productos/gorra_negra#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wir5vrflh4",
+      "Integrity": "aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes_productos\\gorra_negra.jpeg"
+    },
+    {
+      "Identity": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\Jean_Azul.jpeg",
+      "SourceId": "Tiendaenlinea.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\",
+      "BasePath": "_content/Tiendaenlinea.API",
+      "RelativePath": "imagenes_productos/Jean_Azul#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iro3femcv0",
+      "Integrity": "4pgS+Z20pP2cZ0y/V5sTzDIiz+9MkVlI5PT4bmOC6Lk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes_productos\\Jean_Azul.jpeg"
+    },
+    {
+      "Identity": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\Mouse_ergonómico.jpeg",
+      "SourceId": "Tiendaenlinea.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\",
+      "BasePath": "_content/Tiendaenlinea.API",
+      "RelativePath": "imagenes_productos/Mouse_ergonómico#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p6hcvew2i0",
+      "Integrity": "AdkIB+z3PpdQ4gllMGs8Iy1u1p6QRpZgV9lZu7Ea/uQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes_productos\\Mouse_ergonómico.jpeg"
+    },
+    {
+      "Identity": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\Mouse_Gamer_RGB.jpeg",
+      "SourceId": "Tiendaenlinea.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\",
+      "BasePath": "_content/Tiendaenlinea.API",
+      "RelativePath": "imagenes_productos/Mouse_Gamer_RGB#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4z7n4vvj39",
+      "Integrity": "IJgp/901mrZy58i/DQJKP1tf5e/Qevrw8k0ETiMGDK0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes_productos\\Mouse_Gamer_RGB.jpeg"
+    },
+    {
+      "Identity": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\Mouse_inalámbrico.jpeg",
+      "SourceId": "Tiendaenlinea.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\",
+      "BasePath": "_content/Tiendaenlinea.API",
+      "RelativePath": "imagenes_productos/Mouse_inalámbrico#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r1f137fctk",
+      "Integrity": "b1FiAkOxPzpjXYVkHMKCKX10p6KoSN6Aqru7bR2k4o4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes_productos\\Mouse_inalámbrico.jpeg"
+    },
+    {
+      "Identity": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\Polera_Oversize.jpeg",
+      "SourceId": "Tiendaenlinea.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\",
+      "BasePath": "_content/Tiendaenlinea.API",
+      "RelativePath": "imagenes_productos/Polera_Oversize#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9zemoslbm8",
+      "Integrity": "VQ3gJDT5rpEkblbA0HtpFqvI7FDkgV74UqBIZvu4JpE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes_productos\\Polera_Oversize.jpeg"
+    },
+    {
+      "Identity": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\polera.jpeg",
+      "SourceId": "Tiendaenlinea.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\",
+      "BasePath": "_content/Tiendaenlinea.API",
+      "RelativePath": "imagenes_productos/polera#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jf6ijven3t",
+      "Integrity": "D2DfP5PHsqAMQ+Sjqq9x9ANjdO3LP2aHMndRfw48skA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes_productos\\polera.jpeg"
+    },
+    {
+      "Identity": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\Teclado_inalambrico.jpeg",
+      "SourceId": "Tiendaenlinea.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\",
+      "BasePath": "_content/Tiendaenlinea.API",
+      "RelativePath": "imagenes_productos/Teclado_inalambrico#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kfalyv1uwj",
+      "Integrity": "8Ak57ObPY9PnO3SAyMayeloDCEQKcA34Fs+WtALkgvc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes_productos\\Teclado_inalambrico.jpeg"
+    },
+    {
+      "Identity": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\Teclado_Mecánico.jpeg",
+      "SourceId": "Tiendaenlinea.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\",
+      "BasePath": "_content/Tiendaenlinea.API",
+      "RelativePath": "imagenes_productos/Teclado_Mecánico#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nfjyt1y9gc",
+      "Integrity": "49faW2wrqMJA/TXoVUZzfRf/j1MmbJ28euNU54JsfYw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes_productos\\Teclado_Mecánico.jpeg"
+    },
+    {
+      "Identity": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\zapatillas.jpeg",
+      "SourceId": "Tiendaenlinea.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\",
+      "BasePath": "_content/Tiendaenlinea.API",
+      "RelativePath": "imagenes_productos/zapatillas#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ri64m5ccct",
+      "Integrity": "/Tt0vD/8P/qAAO59G+3ycNX/40+yse+07r95rwsb8wU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes_productos\\zapatillas.jpeg"
+    },
+    {
+      "Identity": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes\\7991bddd-7efd-4324-afbe-5400bf055ee8.jpg",
+      "SourceId": "Tiendaenlinea.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\",
+      "BasePath": "_content/Tiendaenlinea.API",
+      "RelativePath": "imagenes/7991bddd-7efd-4324-afbe-5400bf055ee8#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "46livi4njt",
+      "Integrity": "rELi59yTZQ93khYGupecqJ4W3BOfSMlYozbJwnZPsYU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\7991bddd-7efd-4324-afbe-5400bf055ee8.jpg"
+    },
+    {
+      "Identity": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes\\b58de9b8-2f56-4fb9-a392-4765205d1a4f.jpg",
+      "SourceId": "Tiendaenlinea.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\",
+      "BasePath": "_content/Tiendaenlinea.API",
+      "RelativePath": "imagenes/b58de9b8-2f56-4fb9-a392-4765205d1a4f#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cgzsykucw6",
+      "Integrity": "hEtYR4ShgzbYMUyvqpp7VBv+AYEvpAmwxq5Qa4BL2V8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\b58de9b8-2f56-4fb9-a392-4765205d1a4f.jpg"
+    },
+    {
+      "Identity": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes\\default-tienda.jpg",
+      "SourceId": "Tiendaenlinea.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\",
+      "BasePath": "_content/Tiendaenlinea.API",
+      "RelativePath": "imagenes/default-tienda#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nm271vcjjg",
+      "Integrity": "Dwb/PzcIJwZ0R+d3O7Ow0Quya7xotWNpVj8oOruPTlQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\default-tienda.jpg"
+    },
+    {
+      "Identity": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes\\dismac.jpg",
+      "SourceId": "Tiendaenlinea.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\",
+      "BasePath": "_content/Tiendaenlinea.API",
+      "RelativePath": "imagenes/dismac#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "46livi4njt",
+      "Integrity": "rELi59yTZQ93khYGupecqJ4W3BOfSMlYozbJwnZPsYU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\dismac.jpg"
+    },
+    {
+      "Identity": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes\\logo.jpg",
+      "SourceId": "Tiendaenlinea.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\",
+      "BasePath": "_content/Tiendaenlinea.API",
+      "RelativePath": "imagenes/logo#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hjplaybp1r",
+      "Integrity": "c4kfQlGpiiCCcumW2S0D1sSbGSKqxEYz1bbAnEsf3hU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\logo.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "imagenes_productos/10625fef-05ee-4c77-8aff-4d17f4ef29eb.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\10625fef-05ee-4c77-8aff-4d17f4ef29eb.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 06:15:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/10625fef-05ee-4c77-8aff-4d17f4ef29eb.wir5vrflh4.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\10625fef-05ee-4c77-8aff-4d17f4ef29eb.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 06:15:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wir5vrflh4"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes_productos/10625fef-05ee-4c77-8aff-4d17f4ef29eb.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/253cf47b-a7d6-48a4-8922-83c7088667a5.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\253cf47b-a7d6-48a4-8922-83c7088667a5.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2794"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1Qvsv11movFpoaOYzWx0KQWYjmL+OoMSkeNonHeywtY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 15:56:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1Qvsv11movFpoaOYzWx0KQWYjmL+OoMSkeNonHeywtY="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/253cf47b-a7d6-48a4-8922-83c7088667a5.pvanh5t7i6.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\253cf47b-a7d6-48a4-8922-83c7088667a5.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2794"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1Qvsv11movFpoaOYzWx0KQWYjmL+OoMSkeNonHeywtY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 15:56:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pvanh5t7i6"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes_productos/253cf47b-a7d6-48a4-8922-83c7088667a5.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1Qvsv11movFpoaOYzWx0KQWYjmL+OoMSkeNonHeywtY="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/34d4d2ae-2e7e-4c1d-9009-8da50fccafbd.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\34d4d2ae-2e7e-4c1d-9009-8da50fccafbd.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 06:30:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/34d4d2ae-2e7e-4c1d-9009-8da50fccafbd.wir5vrflh4.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\34d4d2ae-2e7e-4c1d-9009-8da50fccafbd.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 06:30:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wir5vrflh4"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes_productos/34d4d2ae-2e7e-4c1d-9009-8da50fccafbd.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/3e0d55e7-3fd5-40f6-9ec9-6452b90b770a.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\3e0d55e7-3fd5-40f6-9ec9-6452b90b770a.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 06:26:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/3e0d55e7-3fd5-40f6-9ec9-6452b90b770a.wir5vrflh4.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\3e0d55e7-3fd5-40f6-9ec9-6452b90b770a.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 06:26:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wir5vrflh4"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes_productos/3e0d55e7-3fd5-40f6-9ec9-6452b90b770a.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/40fa75c5-b87b-49b6-a699-34b614e779e8.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\40fa75c5-b87b-49b6-a699-34b614e779e8.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 06:21:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/40fa75c5-b87b-49b6-a699-34b614e779e8.wir5vrflh4.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\40fa75c5-b87b-49b6-a699-34b614e779e8.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 06:21:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wir5vrflh4"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes_productos/40fa75c5-b87b-49b6-a699-34b614e779e8.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/6131c93d-edf7-461d-8a31-c6e1c27ba640.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\6131c93d-edf7-461d-8a31-c6e1c27ba640.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 06:42:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/6131c93d-edf7-461d-8a31-c6e1c27ba640.wir5vrflh4.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\6131c93d-edf7-461d-8a31-c6e1c27ba640.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 06:42:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wir5vrflh4"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes_productos/6131c93d-edf7-461d-8a31-c6e1c27ba640.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/6a35fbfb-9fec-4d16-abe4-32f31edccb28.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\6a35fbfb-9fec-4d16-abe4-32f31edccb28.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 06:41:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/6a35fbfb-9fec-4d16-abe4-32f31edccb28.wir5vrflh4.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\6a35fbfb-9fec-4d16-abe4-32f31edccb28.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 06:41:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wir5vrflh4"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes_productos/6a35fbfb-9fec-4d16-abe4-32f31edccb28.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/770c5bbd-0b21-42fc-a72e-5a3a6adb163d.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\770c5bbd-0b21-42fc-a72e-5a3a6adb163d.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 06:12:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/770c5bbd-0b21-42fc-a72e-5a3a6adb163d.wir5vrflh4.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\770c5bbd-0b21-42fc-a72e-5a3a6adb163d.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 06:12:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wir5vrflh4"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes_productos/770c5bbd-0b21-42fc-a72e-5a3a6adb163d.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/7ac412dd-e1f8-4179-96b8-61b8bbc9e3d3.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\7ac412dd-e1f8-4179-96b8-61b8bbc9e3d3.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 06:18:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/7ac412dd-e1f8-4179-96b8-61b8bbc9e3d3.wir5vrflh4.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\7ac412dd-e1f8-4179-96b8-61b8bbc9e3d3.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 06:18:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wir5vrflh4"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes_productos/7ac412dd-e1f8-4179-96b8-61b8bbc9e3d3.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/8a040568-59ff-4473-903b-ab2840300aaf.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\8a040568-59ff-4473-903b-ab2840300aaf.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 06:09:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/8a040568-59ff-4473-903b-ab2840300aaf.wir5vrflh4.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\8a040568-59ff-4473-903b-ab2840300aaf.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 06:09:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wir5vrflh4"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes_productos/8a040568-59ff-4473-903b-ab2840300aaf.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/Cien_Años_de Soledad.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\Cien_Años_de Soledad.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12997"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lkNoQAnVjbJRCsXgwYcaCf8aTO0GqzGSSL6CZUEK2P4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 13:50:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lkNoQAnVjbJRCsXgwYcaCf8aTO0GqzGSSL6CZUEK2P4="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/Cien_Años_de Soledad.qzt7cdletl.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\Cien_Años_de Soledad.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12997"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lkNoQAnVjbJRCsXgwYcaCf8aTO0GqzGSSL6CZUEK2P4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 13:50:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qzt7cdletl"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes_productos/Cien_Años_de Soledad.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lkNoQAnVjbJRCsXgwYcaCf8aTO0GqzGSSL6CZUEK2P4="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/e2b4f9fd-1996-40ab-876b-4942479bcc62.jf6ijven3t.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\e2b4f9fd-1996-40ab-876b-4942479bcc62.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4862"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D2DfP5PHsqAMQ+Sjqq9x9ANjdO3LP2aHMndRfw48skA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 05:17:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jf6ijven3t"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes_productos/e2b4f9fd-1996-40ab-876b-4942479bcc62.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D2DfP5PHsqAMQ+Sjqq9x9ANjdO3LP2aHMndRfw48skA="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/e2b4f9fd-1996-40ab-876b-4942479bcc62.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\e2b4f9fd-1996-40ab-876b-4942479bcc62.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4862"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D2DfP5PHsqAMQ+Sjqq9x9ANjdO3LP2aHMndRfw48skA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 05:17:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D2DfP5PHsqAMQ+Sjqq9x9ANjdO3LP2aHMndRfw48skA="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/El_Principito.4qh82clafi.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\El_Principito.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11721"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vM0q3eCAb5ZwsG2RQYSbsVygpYLM1ktyim94oXZkqTM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 13:50:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4qh82clafi"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes_productos/El_Principito.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vM0q3eCAb5ZwsG2RQYSbsVygpYLM1ktyim94oXZkqTM="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/El_Principito.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\El_Principito.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11721"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vM0q3eCAb5ZwsG2RQYSbsVygpYLM1ktyim94oXZkqTM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 13:50:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vM0q3eCAb5ZwsG2RQYSbsVygpYLM1ktyim94oXZkqTM="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/f97a2736-8b6e-492e-971f-4595250b3adb.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\f97a2736-8b6e-492e-971f-4595250b3adb.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 06:37:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/f97a2736-8b6e-492e-971f-4595250b3adb.wir5vrflh4.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\f97a2736-8b6e-492e-971f-4595250b3adb.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 06:37:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wir5vrflh4"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes_productos/f97a2736-8b6e-492e-971f-4595250b3adb.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/gorra_negra.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\gorra_negra.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 05:43:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/gorra_negra.wir5vrflh4.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\gorra_negra.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 05:43:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wir5vrflh4"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes_productos/gorra_negra.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aOqjmqTRtBKfZVYD+yAIl0oXkPHMXSs/n926/2eFWTI="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/Jean_Azul.iro3femcv0.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\Jean_Azul.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3753"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4pgS+Z20pP2cZ0y/V5sTzDIiz+9MkVlI5PT4bmOC6Lk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 13:49:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iro3femcv0"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes_productos/Jean_Azul.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4pgS+Z20pP2cZ0y/V5sTzDIiz+9MkVlI5PT4bmOC6Lk="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/Jean_Azul.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\Jean_Azul.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3753"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4pgS+Z20pP2cZ0y/V5sTzDIiz+9MkVlI5PT4bmOC6Lk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 13:49:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4pgS+Z20pP2cZ0y/V5sTzDIiz+9MkVlI5PT4bmOC6Lk="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/Mouse_ergonómico.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\Mouse_ergonómico.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5036"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AdkIB+z3PpdQ4gllMGs8Iy1u1p6QRpZgV9lZu7Ea/uQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 13:49:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AdkIB+z3PpdQ4gllMGs8Iy1u1p6QRpZgV9lZu7Ea/uQ="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/Mouse_ergonómico.p6hcvew2i0.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\Mouse_ergonómico.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5036"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AdkIB+z3PpdQ4gllMGs8Iy1u1p6QRpZgV9lZu7Ea/uQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 13:49:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p6hcvew2i0"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes_productos/Mouse_ergonómico.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AdkIB+z3PpdQ4gllMGs8Iy1u1p6QRpZgV9lZu7Ea/uQ="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/Mouse_Gamer_RGB.4z7n4vvj39.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\Mouse_Gamer_RGB.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5007"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IJgp/901mrZy58i/DQJKP1tf5e/Qevrw8k0ETiMGDK0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 13:47:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4z7n4vvj39"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes_productos/Mouse_Gamer_RGB.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IJgp/901mrZy58i/DQJKP1tf5e/Qevrw8k0ETiMGDK0="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/Mouse_Gamer_RGB.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\Mouse_Gamer_RGB.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5007"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IJgp/901mrZy58i/DQJKP1tf5e/Qevrw8k0ETiMGDK0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 13:47:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IJgp/901mrZy58i/DQJKP1tf5e/Qevrw8k0ETiMGDK0="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/Mouse_inalámbrico.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\Mouse_inalámbrico.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b1FiAkOxPzpjXYVkHMKCKX10p6KoSN6Aqru7bR2k4o4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 13:51:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-b1FiAkOxPzpjXYVkHMKCKX10p6KoSN6Aqru7bR2k4o4="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/Mouse_inalámbrico.r1f137fctk.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\Mouse_inalámbrico.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b1FiAkOxPzpjXYVkHMKCKX10p6KoSN6Aqru7bR2k4o4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 13:51:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r1f137fctk"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes_productos/Mouse_inalámbrico.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-b1FiAkOxPzpjXYVkHMKCKX10p6KoSN6Aqru7bR2k4o4="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/Polera_Oversize.9zemoslbm8.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\Polera_Oversize.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3404"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VQ3gJDT5rpEkblbA0HtpFqvI7FDkgV74UqBIZvu4JpE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 13:48:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9zemoslbm8"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes_productos/Polera_Oversize.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VQ3gJDT5rpEkblbA0HtpFqvI7FDkgV74UqBIZvu4JpE="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/Polera_Oversize.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\Polera_Oversize.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3404"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VQ3gJDT5rpEkblbA0HtpFqvI7FDkgV74UqBIZvu4JpE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 13:48:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VQ3gJDT5rpEkblbA0HtpFqvI7FDkgV74UqBIZvu4JpE="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/polera.jf6ijven3t.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\polera.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4862"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D2DfP5PHsqAMQ+Sjqq9x9ANjdO3LP2aHMndRfw48skA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 05:17:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jf6ijven3t"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes_productos/polera.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D2DfP5PHsqAMQ+Sjqq9x9ANjdO3LP2aHMndRfw48skA="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/polera.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\polera.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4862"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D2DfP5PHsqAMQ+Sjqq9x9ANjdO3LP2aHMndRfw48skA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 05:17:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D2DfP5PHsqAMQ+Sjqq9x9ANjdO3LP2aHMndRfw48skA="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/Teclado_inalambrico.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\Teclado_inalambrico.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6745"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8Ak57ObPY9PnO3SAyMayeloDCEQKcA34Fs+WtALkgvc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 13:51:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8Ak57ObPY9PnO3SAyMayeloDCEQKcA34Fs+WtALkgvc="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/Teclado_inalambrico.kfalyv1uwj.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\Teclado_inalambrico.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6745"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8Ak57ObPY9PnO3SAyMayeloDCEQKcA34Fs+WtALkgvc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 13:51:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kfalyv1uwj"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes_productos/Teclado_inalambrico.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8Ak57ObPY9PnO3SAyMayeloDCEQKcA34Fs+WtALkgvc="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/Teclado_Mecánico.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\Teclado_Mecánico.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7185"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"49faW2wrqMJA/TXoVUZzfRf/j1MmbJ28euNU54JsfYw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 13:48:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-49faW2wrqMJA/TXoVUZzfRf/j1MmbJ28euNU54JsfYw="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/Teclado_Mecánico.nfjyt1y9gc.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\Teclado_Mecánico.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7185"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"49faW2wrqMJA/TXoVUZzfRf/j1MmbJ28euNU54JsfYw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 13:48:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nfjyt1y9gc"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes_productos/Teclado_Mecánico.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-49faW2wrqMJA/TXoVUZzfRf/j1MmbJ28euNU54JsfYw="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/zapatillas.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\zapatillas.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3472"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/Tt0vD/8P/qAAO59G+3ycNX/40+yse+07r95rwsb8wU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 18:26:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/Tt0vD/8P/qAAO59G+3ycNX/40+yse+07r95rwsb8wU="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes_productos/zapatillas.ri64m5ccct.jpeg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\zapatillas.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3472"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/Tt0vD/8P/qAAO59G+3ycNX/40+yse+07r95rwsb8wU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 18:26:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ri64m5ccct"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes_productos/zapatillas.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/Tt0vD/8P/qAAO59G+3ycNX/40+yse+07r95rwsb8wU="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/7991bddd-7efd-4324-afbe-5400bf055ee8.46livi4njt.jpg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes\\7991bddd-7efd-4324-afbe-5400bf055ee8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7471"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rELi59yTZQ93khYGupecqJ4W3BOfSMlYozbJwnZPsYU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 01:27:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "46livi4njt"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/7991bddd-7efd-4324-afbe-5400bf055ee8.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rELi59yTZQ93khYGupecqJ4W3BOfSMlYozbJwnZPsYU="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/7991bddd-7efd-4324-afbe-5400bf055ee8.jpg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes\\7991bddd-7efd-4324-afbe-5400bf055ee8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7471"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rELi59yTZQ93khYGupecqJ4W3BOfSMlYozbJwnZPsYU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 01:27:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rELi59yTZQ93khYGupecqJ4W3BOfSMlYozbJwnZPsYU="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/b58de9b8-2f56-4fb9-a392-4765205d1a4f.cgzsykucw6.jpg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes\\b58de9b8-2f56-4fb9-a392-4765205d1a4f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3816"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hEtYR4ShgzbYMUyvqpp7VBv+AYEvpAmwxq5Qa4BL2V8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 22:02:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cgzsykucw6"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/b58de9b8-2f56-4fb9-a392-4765205d1a4f.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hEtYR4ShgzbYMUyvqpp7VBv+AYEvpAmwxq5Qa4BL2V8="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/b58de9b8-2f56-4fb9-a392-4765205d1a4f.jpg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes\\b58de9b8-2f56-4fb9-a392-4765205d1a4f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3816"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hEtYR4ShgzbYMUyvqpp7VBv+AYEvpAmwxq5Qa4BL2V8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 22:02:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hEtYR4ShgzbYMUyvqpp7VBv+AYEvpAmwxq5Qa4BL2V8="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/default-tienda.jpg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes\\default-tienda.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4522"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Dwb/PzcIJwZ0R+d3O7Ow0Quya7xotWNpVj8oOruPTlQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 13:00:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Dwb/PzcIJwZ0R+d3O7Ow0Quya7xotWNpVj8oOruPTlQ="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/default-tienda.nm271vcjjg.jpg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes\\default-tienda.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4522"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Dwb/PzcIJwZ0R+d3O7Ow0Quya7xotWNpVj8oOruPTlQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 13:00:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nm271vcjjg"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/default-tienda.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Dwb/PzcIJwZ0R+d3O7Ow0Quya7xotWNpVj8oOruPTlQ="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/dismac.46livi4njt.jpg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes\\dismac.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7471"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rELi59yTZQ93khYGupecqJ4W3BOfSMlYozbJwnZPsYU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 01:25:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "46livi4njt"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/dismac.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rELi59yTZQ93khYGupecqJ4W3BOfSMlYozbJwnZPsYU="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/dismac.jpg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes\\dismac.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7471"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rELi59yTZQ93khYGupecqJ4W3BOfSMlYozbJwnZPsYU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 01:25:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rELi59yTZQ93khYGupecqJ4W3BOfSMlYozbJwnZPsYU="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/logo.hjplaybp1r.jpg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes\\logo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3331"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c4kfQlGpiiCCcumW2S0D1sSbGSKqxEYz1bbAnEsf3hU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 21:10:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hjplaybp1r"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/logo.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-c4kfQlGpiiCCcumW2S0D1sSbGSKqxEYz1bbAnEsf3hU="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/logo.jpg",
+      "AssetFile": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes\\logo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3331"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c4kfQlGpiiCCcumW2S0D1sSbGSKqxEYz1bbAnEsf3hU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 21:10:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-c4kfQlGpiiCCcumW2S0D1sSbGSKqxEYz1bbAnEsf3hU="
+        }
+      ]
+    }
+  ]
+}

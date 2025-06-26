@@ -1,0 +1,141 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes\\7991bddd-7efd-4324-afbe-5400bf055ee8.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\7991bddd-7efd-4324-afbe-5400bf055ee8.jpg"
+    },
+    {
+      "Id": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes\\b58de9b8-2f56-4fb9-a392-4765205d1a4f.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\b58de9b8-2f56-4fb9-a392-4765205d1a4f.jpg"
+    },
+    {
+      "Id": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes\\default-tienda.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\default-tienda.jpg"
+    },
+    {
+      "Id": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes\\dismac.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\dismac.jpg"
+    },
+    {
+      "Id": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes\\logo.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\logo.jpg"
+    },
+    {
+      "Id": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\10625fef-05ee-4c77-8aff-4d17f4ef29eb.jpeg",
+      "PackagePath": "staticwebassets\\imagenes_productos\\10625fef-05ee-4c77-8aff-4d17f4ef29eb.jpeg"
+    },
+    {
+      "Id": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\253cf47b-a7d6-48a4-8922-83c7088667a5.jpeg",
+      "PackagePath": "staticwebassets\\imagenes_productos\\253cf47b-a7d6-48a4-8922-83c7088667a5.jpeg"
+    },
+    {
+      "Id": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\34d4d2ae-2e7e-4c1d-9009-8da50fccafbd.jpeg",
+      "PackagePath": "staticwebassets\\imagenes_productos\\34d4d2ae-2e7e-4c1d-9009-8da50fccafbd.jpeg"
+    },
+    {
+      "Id": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\3e0d55e7-3fd5-40f6-9ec9-6452b90b770a.jpeg",
+      "PackagePath": "staticwebassets\\imagenes_productos\\3e0d55e7-3fd5-40f6-9ec9-6452b90b770a.jpeg"
+    },
+    {
+      "Id": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\40fa75c5-b87b-49b6-a699-34b614e779e8.jpeg",
+      "PackagePath": "staticwebassets\\imagenes_productos\\40fa75c5-b87b-49b6-a699-34b614e779e8.jpeg"
+    },
+    {
+      "Id": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\6131c93d-edf7-461d-8a31-c6e1c27ba640.jpeg",
+      "PackagePath": "staticwebassets\\imagenes_productos\\6131c93d-edf7-461d-8a31-c6e1c27ba640.jpeg"
+    },
+    {
+      "Id": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\6a35fbfb-9fec-4d16-abe4-32f31edccb28.jpeg",
+      "PackagePath": "staticwebassets\\imagenes_productos\\6a35fbfb-9fec-4d16-abe4-32f31edccb28.jpeg"
+    },
+    {
+      "Id": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\770c5bbd-0b21-42fc-a72e-5a3a6adb163d.jpeg",
+      "PackagePath": "staticwebassets\\imagenes_productos\\770c5bbd-0b21-42fc-a72e-5a3a6adb163d.jpeg"
+    },
+    {
+      "Id": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\7ac412dd-e1f8-4179-96b8-61b8bbc9e3d3.jpeg",
+      "PackagePath": "staticwebassets\\imagenes_productos\\7ac412dd-e1f8-4179-96b8-61b8bbc9e3d3.jpeg"
+    },
+    {
+      "Id": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\8a040568-59ff-4473-903b-ab2840300aaf.jpeg",
+      "PackagePath": "staticwebassets\\imagenes_productos\\8a040568-59ff-4473-903b-ab2840300aaf.jpeg"
+    },
+    {
+      "Id": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\Cien_Años_de Soledad.jpeg",
+      "PackagePath": "staticwebassets\\imagenes_productos\\Cien_Años_de Soledad.jpeg"
+    },
+    {
+      "Id": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\El_Principito.jpeg",
+      "PackagePath": "staticwebassets\\imagenes_productos\\El_Principito.jpeg"
+    },
+    {
+      "Id": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\Jean_Azul.jpeg",
+      "PackagePath": "staticwebassets\\imagenes_productos\\Jean_Azul.jpeg"
+    },
+    {
+      "Id": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\Mouse_Gamer_RGB.jpeg",
+      "PackagePath": "staticwebassets\\imagenes_productos\\Mouse_Gamer_RGB.jpeg"
+    },
+    {
+      "Id": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\Mouse_ergonómico.jpeg",
+      "PackagePath": "staticwebassets\\imagenes_productos\\Mouse_ergonómico.jpeg"
+    },
+    {
+      "Id": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\Mouse_inalámbrico.jpeg",
+      "PackagePath": "staticwebassets\\imagenes_productos\\Mouse_inalámbrico.jpeg"
+    },
+    {
+      "Id": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\Polera_Oversize.jpeg",
+      "PackagePath": "staticwebassets\\imagenes_productos\\Polera_Oversize.jpeg"
+    },
+    {
+      "Id": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\Teclado_Mecánico.jpeg",
+      "PackagePath": "staticwebassets\\imagenes_productos\\Teclado_Mecánico.jpeg"
+    },
+    {
+      "Id": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\Teclado_inalambrico.jpeg",
+      "PackagePath": "staticwebassets\\imagenes_productos\\Teclado_inalambrico.jpeg"
+    },
+    {
+      "Id": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\e2b4f9fd-1996-40ab-876b-4942479bcc62.jpeg",
+      "PackagePath": "staticwebassets\\imagenes_productos\\e2b4f9fd-1996-40ab-876b-4942479bcc62.jpeg"
+    },
+    {
+      "Id": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\f97a2736-8b6e-492e-971f-4595250b3adb.jpeg",
+      "PackagePath": "staticwebassets\\imagenes_productos\\f97a2736-8b6e-492e-971f-4595250b3adb.jpeg"
+    },
+    {
+      "Id": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\gorra_negra.jpeg",
+      "PackagePath": "staticwebassets\\imagenes_productos\\gorra_negra.jpeg"
+    },
+    {
+      "Id": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\polera.jpeg",
+      "PackagePath": "staticwebassets\\imagenes_productos\\polera.jpeg"
+    },
+    {
+      "Id": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\wwwroot\\imagenes_productos\\zapatillas.jpeg",
+      "PackagePath": "staticwebassets\\imagenes_productos\\zapatillas.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Tiendaenlinea.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Tiendaenlinea.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Tiendaenlinea.API.props",
+      "PackagePath": "build\\Tiendaenlinea.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Tiendaenlinea.API.props",
+      "PackagePath": "buildMultiTargeting\\Tiendaenlinea.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Tiendaenlinea.API.props",
+      "PackagePath": "buildTransitive\\Tiendaenlinea.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

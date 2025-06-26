@@ -1,0 +1,989 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\Controllers\\UsuariosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.API\\Controllers\\UsuariosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Repositorios\\IUsuarioRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Dominio\\Repositorios\\IUsuarioRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Infraestructura\\Persistencia\\Repositorios\\UsuarioRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Infraestructura\\Persistencia\\Repositorios\\UsuarioRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Entidades\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Dominio\\Entidades\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\Controllers\\ProductosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.API\\Controllers\\ProductosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\Controllers\\TiendasController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.API\\Controllers\\TiendasController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Infraestructura\\Persistencia\\Repositorios\\PedidoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Infraestructura\\Persistencia\\Repositorios\\PedidoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Repositorios\\IPedidoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Dominio\\Repositorios\\IPedidoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\DTOs\\CambiarEstadoPedidoRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.API\\DTOs\\CambiarEstadoPedidoRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\DTOs\\AgregarProductoRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.API\\DTOs\\AgregarProductoRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\Controllers\\PedidoController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.API\\Controllers\\PedidoController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Repositorios\\IProductoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Dominio\\Repositorios\\IProductoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Infraestructura\\Persistencia\\Repositorios\\ProductoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Infraestructura\\Persistencia\\Repositorios\\ProductoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\DTOs\\ActualizarEstadoRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.API\\DTOs\\ActualizarEstadoRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\DTOs\\ActualizarStockDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Dominio\\DTOs\\ActualizarStockDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\DTOs\\AgregarAlCarritoDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Dominio\\DTOs\\AgregarAlCarritoDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Infraestructura\\Persistencia\\Repositorios\\TiendaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Infraestructura\\Persistencia\\Repositorios\\TiendaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Repositorios\\ITiendaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Dominio\\Repositorios\\ITiendaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\DTOs\\ValoracionRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.API\\DTOs\\ValoracionRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Infraestructura\\Persistencia\\Repositorios\\ImagenTiendaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Infraestructura\\Persistencia\\Repositorios\\ImagenTiendaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Infraestructura\\Servicios\\CarritoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Infraestructura\\Servicios\\CarritoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Repositorios\\IImagenTiendaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Dominio\\Repositorios\\IImagenTiendaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\DTOs\\ProductoListadoDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Dominio\\DTOs\\ProductoListadoDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Aplicacion\\Servicios\\TiendaService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Aplicacion\\Servicios\\TiendaService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Entidades\\ImagenTienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Dominio\\Entidades\\ImagenTienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Entidades\\Tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Dominio\\Entidades\\Tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\DTOs\\TiendaDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Dominio\\DTOs\\TiendaDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\DTOs\\CrearTiendaDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Dominio\\DTOs\\CrearTiendaDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\DTOs\\DetalleVentaDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Dominio\\DTOs\\DetalleVentaDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\Controllers\\DireccionController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.API\\Controllers\\DireccionController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\DTOs\\ItemCarrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Dominio\\DTOs\\ItemCarrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\DTOs\\ConfirmarCompraDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Dominio\\DTOs\\ConfirmarCompraDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Infraestructura\\Servicios\\DireccionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Infraestructura\\Servicios\\DireccionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\Controllers\\CarritoController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.API\\Controllers\\CarritoController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\DTOs\\AgregarDireccionDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Dominio\\DTOs\\AgregarDireccionDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Servicios\\IDireccionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Dominio\\Servicios\\IDireccionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Servicios\\ICarritoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Dominio\\Servicios\\ICarritoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\DTOs\\ProductoenCarrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Dominio\\DTOs\\ProductoenCarrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Entidades\\CarritoMemoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Dominio\\Entidades\\CarritoMemoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\DTOs\\ProductoDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Dominio\\DTOs\\ProductoDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\DTOs\\CrearTiendaRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.API\\DTOs\\CrearTiendaRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Infraestructura\\Persistencia\\TiendaContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Infraestructura\\Persistencia\\TiendaContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\Tiendaenlinea.API.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.API\\Tiendaenlinea.API.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Infraestructura\\Tiendaenlinea.Infraestructura.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Infraestructura\\Tiendaenlinea.Infraestructura.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Aplicacion\\Tiendaenlinea.Aplicacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Aplicacion\\Tiendaenlinea.Aplicacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Tiendaenlinea.Dominio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Dominio\\Tiendaenlinea.Dominio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.API\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\DTOs\\UsuarioRegistroDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Dominio\\DTOs\\UsuarioRegistroDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\DTOs\\UsuarioLoginDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Dominio\\DTOs\\UsuarioLoginDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.API\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Entidades\\Direcciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Dominio\\Entidades\\Direcciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Entidades\\Productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Dominio\\Entidades\\Productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Entidades\\Categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Dominio\\Entidades\\Categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Entidades\\DetallePedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Dominio\\Entidades\\DetallePedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Entidades\\Pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Dominio\\Entidades\\Pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tiendaenlinea.Dominio\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.API\\Controllers\\ProductosController.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "Tiendaenlinea.API\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAHkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T03:57:36.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PedidoRepository.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Infraestructura\\Persistencia\\Repositorios\\PedidoRepository.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Infraestructura\\Persistencia\\Repositorios\\PedidoRepository.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Infraestructura\\Persistencia\\Repositorios\\PedidoRepository.cs",
+              "RelativeToolTip": "Tiendaenlinea.Infraestructura\\Persistencia\\Repositorios\\PedidoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T06:33:28.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TiendasController.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\Controllers\\TiendasController.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.API\\Controllers\\TiendasController.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\Controllers\\TiendasController.cs",
+              "RelativeToolTip": "Tiendaenlinea.API\\Controllers\\TiendasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJAAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T01:56:23.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.API\\Controllers\\UsuariosController.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Tiendaenlinea.API\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwCQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T18:51:55.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Entidades\\Usuario.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Dominio\\Entidades\\Usuario.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Entidades\\Usuario.cs",
+              "RelativeToolTip": "Tiendaenlinea.Dominio\\Entidades\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:31:49.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Infraestructura\\Persistencia\\Repositorios\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Infraestructura\\Persistencia\\Repositorios\\UsuarioRepository.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Infraestructura\\Persistencia\\Repositorios\\UsuarioRepository.cs",
+              "RelativeToolTip": "Tiendaenlinea.Infraestructura\\Persistencia\\Repositorios\\UsuarioRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T18:28:43.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Repositorios\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Dominio\\Repositorios\\IUsuarioRepository.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Repositorios\\IUsuarioRepository.cs",
+              "RelativeToolTip": "Tiendaenlinea.Dominio\\Repositorios\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T18:22:59.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPedidoRepository.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Repositorios\\IPedidoRepository.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Dominio\\Repositorios\\IPedidoRepository.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Repositorios\\IPedidoRepository.cs",
+              "RelativeToolTip": "Tiendaenlinea.Dominio\\Repositorios\\IPedidoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T06:31:49.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CambiarEstadoPedidoRequest.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\DTOs\\CambiarEstadoPedidoRequest.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.API\\DTOs\\CambiarEstadoPedidoRequest.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\DTOs\\CambiarEstadoPedidoRequest.cs",
+              "RelativeToolTip": "Tiendaenlinea.API\\DTOs\\CambiarEstadoPedidoRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:56:17.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AgregarProductoRequest.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\DTOs\\AgregarProductoRequest.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.API\\DTOs\\AgregarProductoRequest.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\DTOs\\AgregarProductoRequest.cs",
+              "RelativeToolTip": "Tiendaenlinea.API\\DTOs\\AgregarProductoRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T03:53:13.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Infraestructura\\Persistencia\\Repositorios\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Infraestructura\\Persistencia\\Repositorios\\ProductoRepository.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Infraestructura\\Persistencia\\Repositorios\\ProductoRepository.cs",
+              "RelativeToolTip": "Tiendaenlinea.Infraestructura\\Persistencia\\Repositorios\\ProductoRepository.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAiwJgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T03:55:02.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ActualizarEstadoRequest.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\DTOs\\ActualizarEstadoRequest.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.API\\DTOs\\ActualizarEstadoRequest.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\DTOs\\ActualizarEstadoRequest.cs",
+              "RelativeToolTip": "Tiendaenlinea.API\\DTOs\\ActualizarEstadoRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:20:19.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProductoRepository.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Repositorios\\IProductoRepository.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Dominio\\Repositorios\\IProductoRepository.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Repositorios\\IProductoRepository.cs",
+              "RelativeToolTip": "Tiendaenlinea.Dominio\\Repositorios\\IProductoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T03:54:08.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.API\\Controllers\\PedidoController.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "Tiendaenlinea.API\\Controllers\\PedidoController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwCkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T06:39:05.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ActualizarStockDto.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\DTOs\\ActualizarStockDto.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Dominio\\DTOs\\ActualizarStockDto.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\DTOs\\ActualizarStockDto.cs",
+              "RelativeToolTip": "Tiendaenlinea.Dominio\\DTOs\\ActualizarStockDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:45:11.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AgregarAlCarritoDto.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\DTOs\\AgregarAlCarritoDto.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Dominio\\DTOs\\AgregarAlCarritoDto.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\DTOs\\AgregarAlCarritoDto.cs",
+              "RelativeToolTip": "Tiendaenlinea.Dominio\\DTOs\\AgregarAlCarritoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T20:10:17.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TiendaRepository.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Infraestructura\\Persistencia\\Repositorios\\TiendaRepository.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Infraestructura\\Persistencia\\Repositorios\\TiendaRepository.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Infraestructura\\Persistencia\\Repositorios\\TiendaRepository.cs",
+              "RelativeToolTip": "Tiendaenlinea.Infraestructura\\Persistencia\\Repositorios\\TiendaRepository.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAAAJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T01:40:39.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ITiendaRepository.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Repositorios\\ITiendaRepository.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Dominio\\Repositorios\\ITiendaRepository.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Repositorios\\ITiendaRepository.cs",
+              "RelativeToolTip": "Tiendaenlinea.Dominio\\Repositorios\\ITiendaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T01:44:02.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ValoracionRequest.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\DTOs\\ValoracionRequest.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.API\\DTOs\\ValoracionRequest.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\DTOs\\ValoracionRequest.cs",
+              "RelativeToolTip": "Tiendaenlinea.API\\DTOs\\ValoracionRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:11:25.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CarritoService.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Infraestructura\\Servicios\\CarritoService.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Infraestructura\\Servicios\\CarritoService.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Infraestructura\\Servicios\\CarritoService.cs",
+              "RelativeToolTip": "Tiendaenlinea.Infraestructura\\Servicios\\CarritoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T20:20:51.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ImagenTiendaRepository.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Infraestructura\\Persistencia\\Repositorios\\ImagenTiendaRepository.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Infraestructura\\Persistencia\\Repositorios\\ImagenTiendaRepository.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Infraestructura\\Persistencia\\Repositorios\\ImagenTiendaRepository.cs",
+              "RelativeToolTip": "Tiendaenlinea.Infraestructura\\Persistencia\\Repositorios\\ImagenTiendaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T23:48:56.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IImagenTiendaRepository.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Repositorios\\IImagenTiendaRepository.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Dominio\\Repositorios\\IImagenTiendaRepository.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Repositorios\\IImagenTiendaRepository.cs",
+              "RelativeToolTip": "Tiendaenlinea.Dominio\\Repositorios\\IImagenTiendaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T00:29:01.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductoListadoDto.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\DTOs\\ProductoListadoDto.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Dominio\\DTOs\\ProductoListadoDto.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\DTOs\\ProductoListadoDto.cs",
+              "RelativeToolTip": "Tiendaenlinea.Dominio\\DTOs\\ProductoListadoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T18:45:30.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\Program.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.API\\Program.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\Program.cs",
+              "RelativeToolTip": "Tiendaenlinea.API\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T23:54:09.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TiendaService.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Aplicacion\\Servicios\\TiendaService.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Aplicacion\\Servicios\\TiendaService.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Aplicacion\\Servicios\\TiendaService.cs",
+              "RelativeToolTip": "Tiendaenlinea.Aplicacion\\Servicios\\TiendaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T23:53:40.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ImagenTienda.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Entidades\\ImagenTienda.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Dominio\\Entidades\\ImagenTienda.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Entidades\\ImagenTienda.cs",
+              "RelativeToolTip": "Tiendaenlinea.Dominio\\Entidades\\ImagenTienda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T23:44:48.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Tienda.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Entidades\\Tienda.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Dominio\\Entidades\\Tienda.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Entidades\\Tienda.cs",
+              "RelativeToolTip": "Tiendaenlinea.Dominio\\Entidades\\Tienda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:42:22.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TiendaDto.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\DTOs\\TiendaDto.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Dominio\\DTOs\\TiendaDto.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\DTOs\\TiendaDto.cs",
+              "RelativeToolTip": "Tiendaenlinea.Dominio\\DTOs\\TiendaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T00:09:33.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CrearTiendaDto.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\DTOs\\CrearTiendaDto.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Dominio\\DTOs\\CrearTiendaDto.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\DTOs\\CrearTiendaDto.cs",
+              "RelativeToolTip": "Tiendaenlinea.Dominio\\DTOs\\CrearTiendaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T01:35:38.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DetalleVentaDto.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\DTOs\\DetalleVentaDto.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Dominio\\DTOs\\DetalleVentaDto.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\DTOs\\DetalleVentaDto.cs",
+              "RelativeToolTip": "Tiendaenlinea.Dominio\\DTOs\\DetalleVentaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T06:29:48.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DireccionController.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\Controllers\\DireccionController.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.API\\Controllers\\DireccionController.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\Controllers\\DireccionController.cs",
+              "RelativeToolTip": "Tiendaenlinea.API\\Controllers\\DireccionController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T02:31:25.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DireccionService.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Infraestructura\\Servicios\\DireccionService.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Infraestructura\\Servicios\\DireccionService.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Infraestructura\\Servicios\\DireccionService.cs",
+              "RelativeToolTip": "Tiendaenlinea.Infraestructura\\Servicios\\DireccionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T02:22:14.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CarritoController.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\Controllers\\CarritoController.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.API\\Controllers\\CarritoController.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\Controllers\\CarritoController.cs",
+              "RelativeToolTip": "Tiendaenlinea.API\\Controllers\\CarritoController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T20:22:38.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AgregarDireccionDto.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\DTOs\\AgregarDireccionDto.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Dominio\\DTOs\\AgregarDireccionDto.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\DTOs\\AgregarDireccionDto.cs",
+              "RelativeToolTip": "Tiendaenlinea.Dominio\\DTOs\\AgregarDireccionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T02:19:43.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ConfirmarCompraDto.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\DTOs\\ConfirmarCompraDto.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Dominio\\DTOs\\ConfirmarCompraDto.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\DTOs\\ConfirmarCompraDto.cs",
+              "RelativeToolTip": "Tiendaenlinea.Dominio\\DTOs\\ConfirmarCompraDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T01:33:17.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ItemCarrito.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\DTOs\\ItemCarrito.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Dominio\\DTOs\\ItemCarrito.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\DTOs\\ItemCarrito.cs",
+              "RelativeToolTip": "Tiendaenlinea.Dominio\\DTOs\\ItemCarrito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T20:04:03.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IDireccionService.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Servicios\\IDireccionService.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Dominio\\Servicios\\IDireccionService.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Servicios\\IDireccionService.cs",
+              "RelativeToolTip": "Tiendaenlinea.Dominio\\Servicios\\IDireccionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T02:26:09.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ICarritoService.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Servicios\\ICarritoService.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Dominio\\Servicios\\ICarritoService.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Servicios\\ICarritoService.cs",
+              "RelativeToolTip": "Tiendaenlinea.Dominio\\Servicios\\ICarritoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T20:11:53.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ProductoEnCarrito.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\DTOs\\ProductoEnCarrito.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Dominio\\DTOs\\ProductoEnCarrito.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\DTOs\\ProductoEnCarrito.cs",
+              "RelativeToolTip": "Tiendaenlinea.Dominio\\DTOs\\ProductoEnCarrito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T22:36:08.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CarritoMemoria.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Entidades\\CarritoMemoria.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Dominio\\Entidades\\CarritoMemoria.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Entidades\\CarritoMemoria.cs",
+              "RelativeToolTip": "Tiendaenlinea.Dominio\\Entidades\\CarritoMemoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T23:47:35.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ProductoDto.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\DTOs\\ProductoDto.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Dominio\\DTOs\\ProductoDto.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\DTOs\\ProductoDto.cs",
+              "RelativeToolTip": "Tiendaenlinea.Dominio\\DTOs\\ProductoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:02:58.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CrearTiendaRequest.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\DTOs\\CrearTiendaRequest.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.API\\DTOs\\CrearTiendaRequest.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\DTOs\\CrearTiendaRequest.cs",
+              "RelativeToolTip": "Tiendaenlinea.API\\DTOs\\CrearTiendaRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T02:39:49.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "TiendaContext.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Infraestructura\\Persistencia\\TiendaContext.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Infraestructura\\Persistencia\\TiendaContext.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Infraestructura\\Persistencia\\TiendaContext.cs",
+              "RelativeToolTip": "Tiendaenlinea.Infraestructura\\Persistencia\\TiendaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T23:45:27.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Tiendaenlinea.API.csproj",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\Tiendaenlinea.API.csproj",
+              "RelativeDocumentMoniker": "Tiendaenlinea.API\\Tiendaenlinea.API.csproj",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\Tiendaenlinea.API.csproj",
+              "RelativeToolTip": "Tiendaenlinea.API\\Tiendaenlinea.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-17T19:57:04.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Tiendaenlinea.Infraestructura.csproj",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Infraestructura\\Tiendaenlinea.Infraestructura.csproj",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Infraestructura\\Tiendaenlinea.Infraestructura.csproj",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Infraestructura\\Tiendaenlinea.Infraestructura.csproj",
+              "RelativeToolTip": "Tiendaenlinea.Infraestructura\\Tiendaenlinea.Infraestructura.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-24T00:18:01.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Tiendaenlinea.Aplicacion.csproj",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Aplicacion\\Tiendaenlinea.Aplicacion.csproj",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Aplicacion\\Tiendaenlinea.Aplicacion.csproj",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Aplicacion\\Tiendaenlinea.Aplicacion.csproj",
+              "RelativeToolTip": "Tiendaenlinea.Aplicacion\\Tiendaenlinea.Aplicacion.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-24T00:17:47.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Tiendaenlinea.Dominio.csproj",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Tiendaenlinea.Dominio.csproj",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Dominio\\Tiendaenlinea.Dominio.csproj",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Tiendaenlinea.Dominio.csproj",
+              "RelativeToolTip": "Tiendaenlinea.Dominio\\Tiendaenlinea.Dominio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-24T00:16:05.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Tiendaenlinea.API\\appsettings.json",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\appsettings.json",
+              "RelativeToolTip": "Tiendaenlinea.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-17T14:20:59.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "UsuarioRegistroDto.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\DTOs\\UsuarioRegistroDto.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Dominio\\DTOs\\UsuarioRegistroDto.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\DTOs\\UsuarioRegistroDto.cs",
+              "RelativeToolTip": "Tiendaenlinea.Dominio\\DTOs\\UsuarioRegistroDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T18:17:51.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UsuarioLoginDto.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\DTOs\\UsuarioLoginDto.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Dominio\\DTOs\\UsuarioLoginDto.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\DTOs\\UsuarioLoginDto.cs",
+              "RelativeToolTip": "Tiendaenlinea.Dominio\\DTOs\\UsuarioLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T18:06:53.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Tiendaenlinea.API\\appsettings.Development.json",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.API\\appsettings.Development.json",
+              "RelativeToolTip": "Tiendaenlinea.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-17T15:46:01.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Direcciones.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Entidades\\Direcciones.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Dominio\\Entidades\\Direcciones.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Entidades\\Direcciones.cs",
+              "RelativeToolTip": "Tiendaenlinea.Dominio\\Entidades\\Direcciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T23:21:10.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "DetallePedido.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Entidades\\DetallePedido.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Dominio\\Entidades\\DetallePedido.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Entidades\\DetallePedido.cs",
+              "RelativeToolTip": "Tiendaenlinea.Dominio\\Entidades\\DetallePedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:59:47.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Entidades\\Productos.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Dominio\\Entidades\\Productos.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Entidades\\Productos.cs",
+              "RelativeToolTip": "Tiendaenlinea.Dominio\\Entidades\\Productos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:53:31.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Entidades\\Pedido.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Dominio\\Entidades\\Pedido.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Entidades\\Pedido.cs",
+              "RelativeToolTip": "Tiendaenlinea.Dominio\\Entidades\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T23:18:34.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Categorias.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Entidades\\Categorias.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Dominio\\Entidades\\Categorias.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Entidades\\Categorias.cs",
+              "RelativeToolTip": "Tiendaenlinea.Dominio\\Entidades\\Categorias.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T23:25:28.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Class1.cs",
+              "RelativeDocumentMoniker": "Tiendaenlinea.Dominio\\Class1.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\PROYECTO FINAL\\PROGRAMA\\Backend\\Tiendaenlinea.Dominio\\Class1.cs",
+              "RelativeToolTip": "Tiendaenlinea.Dominio\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:26:34.095Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
